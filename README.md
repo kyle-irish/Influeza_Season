@@ -1,4 +1,3 @@
-# Influeza_Season
 Analysis and Visualizations to help staffing agency plan for influenza season
 Tableau storyboard of [results](https://public.tableau.com/views/K_Irish2_9StorytellingwithDataPresentations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
