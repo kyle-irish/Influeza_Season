@@ -1,5 +1,5 @@
 Analysis and Visualizations to help staffing agency plan for influenza season
-Tableau storyboard of [results](https://public.tableau.com/views/K_Irish2_9StorytellingwithDataPresentations/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Tableau storyboard of [results](https://public.tableau.com/app/profile/kyle.irish/viz/K_Irish2_9StorytellingwithDataPresentations/Story1)
 
 [Oral presentation](https://www.youtube.com/watch?v=kGUDztpZ6rY) of Tableau Results
 
